@@ -1,0 +1,6 @@
+{
+  "preset": "ts-jest",
+  "testEnvironment": "node",
+  "setupFilesAfterEnv": ["./src/services/__test__/singleton.ts"],
+  "strictNullChecks": true
+}
