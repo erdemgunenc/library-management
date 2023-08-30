@@ -268,3 +268,5 @@
 {"name":"LibraryManagement","hostname":"erdem-macbook.local","pid":76789,"level":30,"method":"getBookByIdService","url":"Fetching book with id75","timestamp":"2023-08-30T15:35:17.465Z","msg":"Incoming request","time":"2023-08-30T15:35:17.465Z","v":0}
 {"name":"LibraryManagement","hostname":"c7cf6a6f8ee7","pid":1,"level":30,"method":"getUsersService","url":"Fetching users","timestamp":"2023-08-30T18:28:34.848Z","msg":"Incoming request","time":"2023-08-30T18:28:34.848Z","v":0}
 {"name":"LibraryManagement","hostname":"1d5ec3a2e036","pid":1,"level":30,"method":"getUsersService","url":"Fetching users","timestamp":"2023-08-30T18:31:04.412Z","msg":"Incoming request","time":"2023-08-30T18:31:04.413Z","v":0}
+{"name":"LibraryManagement","hostname":"c2a877bd56f4","pid":1,"level":30,"method":"getUsersService","url":"Fetching users","timestamp":"2023-08-30T18:42:18.910Z","msg":"Incoming request","time":"2023-08-30T18:42:18.910Z","v":0}
+{"name":"LibraryManagement","hostname":"5f9a99af1526","pid":1,"level":30,"method":"getUsersService","url":"Fetching users","timestamp":"2023-08-30T18:44:23.013Z","msg":"Incoming request","time":"2023-08-30T18:44:23.014Z","v":0}

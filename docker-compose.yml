@@ -16,9 +16,9 @@ services:
   db:
     image: postgres:latest
     environment:
-      POSTGRES_DB: ia
-      POSTGRES_USER: postgres
-      POSTGRES_PASSWORD: rRl4R0w7qA
+      POSTGRES_DB: ${POSTGRES_DB}
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
     ports:
       - '5432:5432'
     networks:
